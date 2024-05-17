@@ -1,4 +1,3 @@
-```markdown
 # XML Parser
 
 Este proyecto es un parser de archivos XML escrito en Python que utiliza la programación orientada a objetos (POO) para estructurar y procesar el contenido del archivo. El objetivo del programa es leer y detallar la estructura del archivo XML, incluso si se modifica o se le agregan nuevas etiquetas.
