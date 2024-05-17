@@ -1,5 +1,3 @@
-¡Me alegra que te haya gustado! Aquí tienes la explicación lista para agregarla al `README.md` de tu repositorio de GitHub:
-
 ```markdown
 # XML Parser
 
